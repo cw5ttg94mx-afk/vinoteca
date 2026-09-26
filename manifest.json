@@ -1,0 +1,12 @@
+{
+  "name": "Mi Vinoteca",
+  "short_name": "Vinoteca",
+  "description": "Gestión premium de tu colección de vinos",
+  "start_url": "./index.html#/home",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "es",
+  "icons": []
+}
